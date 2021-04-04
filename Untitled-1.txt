@@ -1,0 +1,19 @@
+title of project ?
+SNAKE AMD LADDER.
+
+Goal of game ?
+That the player should reach 100 points.
+
+
+brief story of Game?
+The dice should roll, the player should move forward, beating other players to reach 100 points
+
+what are the playing characters ?
+players with different color, dice.
+
+what are non playing characters ?
+snake and ladder.
+
+how to make game engaging ?
+making game single player and multi player, adding color . 
+
